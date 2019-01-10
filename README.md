@@ -1,2 +1,5 @@
 # Gviz (bioconductor package)
-Visualizing alignments for custom set of transcripts using Gviz Bioconductor package.
+
+Visualizing assembled transcripts and reference annotation transcripts generated from StringTie using Gviz.
+
+
