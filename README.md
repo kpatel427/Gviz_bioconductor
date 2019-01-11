@@ -1,5 +1,5 @@
 # Gviz (bioconductor package)
 
-Visualizing assembled transcripts and reference annotation transcripts generated from StringTie using Gviz.
+Visualizing features of assembled transcripts and reference annotation transcripts generated from StringTie using Gviz.
 
 
